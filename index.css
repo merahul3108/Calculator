@@ -1,0 +1,32 @@
+body{
+   padding-top: 10px;
+   padding-left: 250px;
+}
+#calc{
+   background-color: azure;
+   height: 475px;
+   width: 295px;
+   border: 2px solid rgb(18, 0, 0);
+   border-radius: 10px;
+}
+.top{
+height: 50px;
+width: 50px;
+margin: 5px;
+border-radius: 10px;
+}
+#display{
+   height: 160px;
+   width: 275px;
+   background-color: white;
+   margin: 5px 5px;
+   border-radius: 10px;
+   font-size: 25px;
+   border-radius: 10px;
+}
+.buttom-container{
+   display: flex;
+   justify-content: center;
+   flex-wrap: wrap;
+   border-radius: 10px;
+}
